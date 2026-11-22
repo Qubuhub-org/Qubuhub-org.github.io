@@ -12,7 +12,7 @@
 #                            `script/update-ids`. Do not fill out this field manually.
 #    tm_scope              - The TextMate scope that represents this programming language.
 #                            This should match one of the scopes listed in grammars.yml.
-#                            Use "none" if there is no TextMate grammar for this language.
+#                            Use "none" if there is no TextMate grammar for  this language.
 #
 # Optional fields:
 #    aliases               - List of additional aliases (implicitly includes lowercased forms of language's name).
