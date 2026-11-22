@@ -1,0 +1,30 @@
+{
+  "grammars": [
+    {
+      "name": "nemerle",
+      "camelcase": "Nemerle",
+      "scope": "source.nemerle",
+      "path": ".",
+      "file-types": [
+        "n"
+      ],
+      "highlights": "queries/highlights.scm"
+    }
+  ],
+  "metadata": {
+    "version": "0.1.0",
+    "license": "MIT",
+    "description": "Nemerle grammar for tree-sitter",
+    "links": {
+      "repository": "https://github.com"
+    }
+  },
+  "bindings": {
+    "c": true,
+    "go": false,
+    "node": true,
+    "python": true,
+    "rust": true,
+    "swift": false
+  }
+}
