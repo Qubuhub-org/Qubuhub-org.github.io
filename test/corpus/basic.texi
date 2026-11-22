@@ -1,0 +1,39 @@
+==================
+Hello World Module
+==================
+
+using System.Console;
+
+module Program {
+  Main() : void {
+    def message = "Hello, Nemerle!";
+    WriteLine(message);
+  }
+}
+
+---
+
+(source_file
+  (using_directive
+    (qualified_name
+      (identifier)
+      (identifier)))
+  (module_declaration
+    name: (identifier)
+    (block
+      (method_declaration
+        name: (identifier)
+        (parameter_list)
+        (type
+          (primitive_type))
+        (block
+          (variable_declaration
+            name: (identifier)
+            value: (primary_expression
+              (string)))
+          (expression_statement
+            (call_expression
+              function: (primary_expression
+                (identifier))
+              (primary_expression
+                (identifier)))))))))
