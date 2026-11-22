@@ -1,4 +1,4 @@
-# Defines all languages known to GitHub.
+#  Defines all languages known to GitHub.
 #
 # Required fields:
 #    type                  - Either "data", "programming", "markup" or "prose".
