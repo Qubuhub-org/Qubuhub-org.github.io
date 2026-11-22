@@ -1,0 +1,16 @@
+{
+  "name": "tree-sitter-nemerle",
+  "version": "0.1.0",
+  "description": "Nemerle grammar for tree-sitter",
+  "main": "bindings/node",
+  "keywords": [
+    "incremental",
+    "parsing",
+    "tree-sitter",
+    "nemerle"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "tree-sitter-cli": "^0.24.0"
+  }
+}
