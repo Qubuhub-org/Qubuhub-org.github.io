@@ -99,7 +99,7 @@ graph TD
 
 ## 🌟 Key Features
 
-```texi
+```svg
 ╔════════════════════════════════════════════════════════════════╗
 ║                    QUBUHUB FEATURES                             ║
 ╠════════════════════════════════════════════════════════════════╣
@@ -160,7 +160,7 @@ graph TD
 
 ## 📈 Development Workflow
 
-```texi
+```svg
 ┌─────────────────────────────────────────────────────────────┐
 │                   DEVELOPMENT PIPELINE                        │
 ├──────────────────────────────────────────────────────────────┤
@@ -180,7 +180,8 @@ graph TD
 ## 🤝 How to Get Involved
 
 ```markdown
-@codex ^D START HERE ──→ Choose Your Path ──→ Contribute ──→ Level Up!
+@codexlmlm
+@code^D START HERE ──→ Choose Your Path ──→ Contribute ──→ Level Up!
                       ↓
         ┌─────────────┼─────────────┐
         ↓             ↓             ↓
